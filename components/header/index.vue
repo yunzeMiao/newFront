@@ -70,6 +70,7 @@ export default {
         { nav: "home", link: "/", children: [] },
         { nav: "previous", link: "/previous", children: [] },
         { nav: "share", link: "/share", children: [] },
+        { nav: "about us", link: "/aboutus", children: [] },
       ],
     };
   },
@@ -275,3 +276,4 @@ export default {
   }
 }
 </style>
+
