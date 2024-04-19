@@ -118,7 +118,7 @@ export default {
     },
     onReset(evt) {
       evt.preventDefault();
-      // Reset our form values
+      // Reset our form values....
       this.form.year = "";
       this.form.name = "";
       this.onSubmit(evt);
